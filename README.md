@@ -1,5 +1,5 @@
 # media-query-practice
-# _HTML5 (seperate CSS file)_
+# _HTML5 (separate CSS file)_
 #### _HTML5, Current Version as of 06 January 2018_
 #### By _**Brittany Thirtyacre and Victor Felix**_
 _Optimization of a simple site for viewability on multiple devices built utilizing HTML5 with a seperate CSS file._
@@ -11,7 +11,7 @@ _No known issues present_
 ## Support and contact details
 Email: brittanythirtyacre@gmail.com or vfelix82@gmail.com
 ## Technologies Used
-_Simple optimization (media query practice) of a website using hypertext markup language HTML5; a seperate CSS file; the text editior Atom 
+_Simple optimization (media query practice) of a website using hypertext markup language HTML5; a separate CSS file; the text editior Atom 
 _and utilizing GitHub, the web-based Git repository hosting service, providing the distributed revision control and SCM of Git alongside its 
 own independent features (which is where you are presently viewing content)._
 ### License
