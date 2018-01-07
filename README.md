@@ -5,7 +5,7 @@
 _Optimization of a simple site for viewability on multiple devices built utilizing HTML5 with a seperate CSS file._
 ## Setup/Installation Requirements
 * _Creation of first independent website to build foundational HTML5 skills_
-*_Website built via directives of paid coding courses in conjunction with supplementary studies from HarvardX CS50-Introduction to Computer Science_
+*_Conducted via the directives of paid coding courses in conjunction with supplementary studies from HarvardX CS50-Introduction to Computer Science_
 ## Known Bugs
 _No known issues present_
 ## Support and contact details
