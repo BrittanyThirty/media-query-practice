@@ -9,7 +9,7 @@ _Optimization of a simple site for viewability on multiple devices built utilizi
 ## Known Bugs
 _No known issues present_
 ## Support and contact details
-_Email: brittanythirtyacre@gmail.com or vfelix82@gmail.com
+Email: brittanythirtyacre@gmail.com or vfelix82@gmail.com
 ## Technologies Used
 _Simple optimization (media query practice) of a website using hypertext markup language HTML5; a seperate CSS file; the text editior Atom 
 _and utilizing GitHub, the web-based Git repository hosting service, providing the distributed revision control and SCM of Git alongside its 
